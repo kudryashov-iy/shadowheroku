@@ -1,5 +1,5 @@
 {
-  "name": "Shadowsocks+V2Ray-plugin Rapid deployment",
+  "name": "Shadowsocks+V2Ray-plugin",
   "description": "Deploy Shadowsocks+V2Ray-plugin to Heroku.",
   "keywords": ["V2ray", "Shadowsocks", "V2Ray-plugin"],
   "env": {
@@ -9,7 +9,7 @@
     },
      "PASSWORD": {
       "description": "The password of shadowsocks, you can use uuid as the password (http://www.uuid.online/ online generation)",
-      "value": "5c301bb8-6c77-41a0-a606-4ba11bbab084"
+      "value": "08f7ef87-929f-4652-825c-0afb3db0d649"
     },
 
      "V2_Path": {
@@ -24,7 +24,7 @@
 
     "QR_Path": {
        "description": "QR code and configuration link path, the default qr_img, you can also use uuid for confidentiality, but it cannot be the same as V2_Path. If the AppName variable is no, this variable has no effect",
-       "value": "/qr"
+       "value": "/qqmber"
      }
   },
   "website": "",
